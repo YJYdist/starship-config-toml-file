@@ -1,0 +1,1 @@
+My statship config file
